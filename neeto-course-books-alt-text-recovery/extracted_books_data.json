@@ -1,0 +1,3108 @@
+{
+  "tidbits": {
+    "chapters_count": 2,
+    "chapters": [
+      {
+        "filename": "CH-01-intro.md",
+        "id": "intro",
+        "title": "Introduction",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-02-check-http-https-redirection.md",
+        "id": "check-http-https-redirection",
+        "title": "How to check if redirect from http to https is working",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      }
+    ]
+  },
+  "hccpw": {
+    "chapters_count": 9,
+    "chapters": [
+      {
+        "filename": "ch-01-swiping-credit-card-for-a-cuppa.md",
+        "id": "swiping-credit-card-for-a-cuppa",
+        "title": "Swiping for coffee",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "ch-02-buying-online.md",
+        "id": "buying-online",
+        "title": "Buying Online",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "ch-03-settlement.md",
+        "id": "settlement",
+        "title": "Settlement",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "ch-04-authorization.md",
+        "id": "authorization",
+        "title": "Authorization",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "ch-05-merchant-account.md",
+        "id": "merchant-account",
+        "title": "Merchant Account",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "ch-06-credit-card-processor.md",
+        "id": "credit-card-processor",
+        "title": "Credit Card Processor",
+        "images": {
+          "count": 4,
+          "alt_data": [
+            {
+              "credit-card-processor.jpg": "Screenshot - Advertisements on Google.com by services"
+            },
+            {
+              "interchange-plus-1.jpg": "Screenshot - Advertisements on Google.com by services"
+            },
+            {
+              "interchange-plus-2.jpg": "Screenshot - Rates offered by Main Street Merchant Solutions"
+            },
+            {
+              "braintree.jpg": "Screenshot - Advertisements on Google.com by services"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "ch-07-price-discrimination.md",
+        "id": "price-discrimination",
+        "title": "Price Discrimination",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "ch-08-resellers.md",
+        "id": "resellers",
+        "title": "Resellers",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "ch-09-chargebacks.md",
+        "id": "chargebacks",
+        "title": "Chargebacks",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      }
+    ]
+  },
+  "learn-object-oriented-programming": {
+    "chapters_count": 5,
+    "chapters": [
+      {
+        "filename": "CH-1-procedural-style-vs-object-oriented-style.md",
+        "id": "procedural-code-vs-object-oriented-code",
+        "title": "Procedural code vs Object Oriented code",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-2-behavior-and-state.md",
+        "id": "behavior-and-state",
+        "title": "Behavior and State",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-3-procedural-code-vs-object-oriented-code.md",
+        "id": "convertint-procedural-code-to-object-oriented-code",
+        "title": "Converting procedural style code to Object Oriented Code",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-4-extract-statements-into-methods-for-clarity.md",
+        "id": "extract-statements-into-methods-for-clarity",
+        "title": "Extract statements into methods for clarity",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-5-dont-use-instance-variables-as-global-variables.md",
+        "id": "dont-use-instance-variables-as-global-variables",
+        "title": "Don't use instance variables as global variables",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      }
+    ]
+  },
+  "learn-rubyonrails": {
+    "chapters_count": 125,
+    "chapters": [
+      {
+        "filename": "CH-01-setting-up-mac.md",
+        "id": "setting-up-mac",
+        "title": "Setting up macOS",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-02-setting-up-vscode.md",
+        "id": "setting-up-vscode",
+        "title": "Setting up VSCode",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-03-setting-up-workspace.md",
+        "id": "setting-up-workspace",
+        "title": "Setting up workspace",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-04-installing-ruby-on-rails.md",
+        "id": "installing-ruby-on-rails",
+        "title": "Installing Ruby on Rails",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-05-how-you-can-contribute.md",
+        "id": "how-you-can-contribute",
+        "title": "How you can contribute to the book",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-06-reactjs-over-rails-view.md",
+        "id": "reactjs-over-rails-view",
+        "title": "React.js over Rails view",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-07-core-principles.md",
+        "id": "rails-core-principles",
+        "title": "Rails core principles",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-08-keywords-and-familiarizing-with-ui.md",
+        "id": "keywords-and-familiarizing-with-ui",
+        "title": "Keywords and familiarizing with UI",
+        "images": {
+          "count": 4,
+          "alt_data": [
+            {
+              "table-of-contents.png": "Table of contents"
+            },
+            {
+              "search-box.png": "Search dialog box"
+            },
+            {
+              "example-code-snippet.png": "Example code snippet"
+            },
+            {
+              "copy-paste-code-snippet.png": "Copy paste code snippet"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-09-new-ruby-on-rails-application.md",
+        "id": "new-ruby-on-rails-application",
+        "title": "Building a new Ruby on Rails application",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "new-rails-project-landing-page.png": "Rails new project landing page"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-10-running-server-in-development-environment.md",
+        "id": "running-server-in-development-environment",
+        "title": "Running server in development environment",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-100-activerecord-transactions-in-depth.md",
+        "id": "activerecord-transactions-in-depth",
+        "title": "ActiveRecord Transactions in depth",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-101-webpacker-in-depth.md",
+        "id": "webpacker-in-depth",
+        "title": "Webpacker in Depth",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-102-rails-migrations-in-depth.md",
+        "id": "rails-migrations-in-depth",
+        "title": "Rails migrations in depth",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-103-strong-migrations.md",
+        "id": "strong-migrations",
+        "title": "Strong migrations",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-104-loading-behavior-of-ruby-on-rails-in-depth.md",
+        "id": "loading-behavior-of-ruby-on-rails-in-depth",
+        "title": "Loading behavior of Ruby on Rails in depth",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-105-rails-macros-and-metaprogramming.md",
+        "id": "rails-macros-and-metaprogramming",
+        "title": "Rails Macros and Metaprogramming",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-106-summarizing-rails-naming-conventions.md",
+        "id": "summarizing-rails-naming-conventions",
+        "title": "Summarizing Rails naming conventions",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-107-generic-naming-patterns.md",
+        "id": "generic-naming-patterns",
+        "title": "Generic naming patterns",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-108-rails-generator-and-bundle-commands.md",
+        "id": "rails-generator-and-bundle-commands",
+        "title": "Rails generator and bundle commands",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-109-rails-engines.md",
+        "id": "rails-engines",
+        "title": "Rails Engines",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-11-basics-of-ruby-on-rails-routing.md",
+        "id": "basics-of-ruby-on-rails-routing",
+        "title": "Basics of Ruby on Rails routing",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-110-rails-caching.md",
+        "id": "rails-caching",
+        "title": "Rails caching",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-111-memoization.md",
+        "id": "memoization",
+        "title": "Memoization",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-112-counter-culture.md",
+        "id": "counter-culture",
+        "title": "Counter culture",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-113-carriers.md",
+        "id": "carriers",
+        "title": "Carriers",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-114-database-cleaning-and-strategies.md",
+        "id": "database-cleaning-and-strategies",
+        "title": "Database cleaning and strategies",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-115-rails-routing-in-depth.md",
+        "id": "rails-routing-in-depth",
+        "title": "Rails routing in depth",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-116-overview-of-rails-parameters.md",
+        "id": "overview-of-rails-parameters",
+        "title": "Overview of Rails Parameters",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-117-request-response-cycle-in-rails.md",
+        "id": "request-response-cycle-in-rails",
+        "title": "Request response cycle in Rails",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-118-debugging-test-failures.md",
+        "id": "debugging-test-failures",
+        "title": "Debugging test failures",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "debugging-test-1.png": "Test Function"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-119-dealing-with-errors.md",
+        "id": "dealing-with-errors",
+        "title": "Dealing with errors",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-12-restful-routes-in-ruby-on-rails.md",
+        "id": "restful-routes-in-ruby-on-rails",
+        "title": "RESTful routes in Ruby on Rails",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-120-mocking-api-calls.md",
+        "id": "mocking-api-calls",
+        "title": "Mocking API calls",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "mock-test-error.png": "Mock error example"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-121-debouncing-and-throttling.md",
+        "id": "debouncing-and-throttling",
+        "title": "Debouncing and Throttling",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-122-sql-schema-dumps.md",
+        "id": "sql-schema-dumps",
+        "title": "SQL Schema Dumps",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-123-jsonb-columns-and-active-record-store-module.md",
+        "id": "jsonb-columns-and-active-record-store-module",
+        "title": "JSONB columns and ActiveRecord Store module",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-124-more-rails-content-and-goodies.md",
+        "id": "more-rails-content-and-goodies",
+        "title": "More Rails content and goodies",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-125-other-reference-materials-to-go-through.md",
+        "id": "other-reference-materials-to-go-through",
+        "title": "Other reference materials to go through",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-13-what-is-crud.md",
+        "id": "what-is-crud",
+        "title": "What is CRUD",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-14-rails-migration.md",
+        "id": "rails-migration",
+        "title": "Rails migration",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "schema-migrations-table.png": "The schema_migrations table."
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-15-active-record-basics.md",
+        "id": "active-record-basics",
+        "title": "Active Record basics",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-16-rails-models.md",
+        "id": "rails-models",
+        "title": "Rails Models",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-17-side-project-task-1.md",
+        "id": "side-project-task-1",
+        "title": "Side project - Task 1",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-18-rails-console.md",
+        "id": "rails-console",
+        "title": "Rails console",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-19-adding-tailwind.md",
+        "id": "adding-tailwind",
+        "title": "Adding Tailwind",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-20-setting-up-react-environment.md",
+        "id": "setting-up-react-environment",
+        "title": "Setting up React environment",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-21-basics-of-react-router-dom.md",
+        "id": "basics-of-react-router-dom",
+        "title": "Basics of React Router Dom",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "router-error.png": "Router error"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-22-adding-tasks-controller.md",
+        "id": "adding-tasks-controller",
+        "title": "Adding Tasks controller",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-23-loading-behavior-of-ruby-on-rails.md",
+        "id": "loading-behavior-of-ruby-on-rails",
+        "title": "Loading behavior of Ruby on Rails",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-24-instance-variables-in-rails-controllexrs.md",
+        "id": "instance-variables-in-rails-controllers",
+        "title": "Instance variables in Rails controllers",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-25-model-validations.md",
+        "id": "model-validations",
+        "title": "Model validations",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-26-side-project-task-2.md",
+        "id": "side-project-task-2",
+        "title": "Side project - Task 2",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-27-bringing-reactjs-to-ruby-on-rails.md",
+        "id": "bringing-reactjs-to-ruby-on-rails",
+        "title": "Bring React.js to Rails",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-28-linting-and-formatting-code.md",
+        "id": "linting-and-formatting-code",
+        "title": "Linting and Formatting Code",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "vscode-extensions-recommendation-popup.png": "VSCode extensions recommendation."
+            },
+            {
+              "git-hooks-rubocop-fail-stringliteral.png": "Rubocop string literal error."
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-29-creating-reusable-components.md",
+        "id": "creating-reusable-components",
+        "title": "Reusable components",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "navbar-and-table-components.png": "Navbar and table components"
+            },
+            {
+              "input-and-button-components.png": "Input and button components"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-30-frontend-backend-separation.md",
+        "id": "frontend-backend-separation",
+        "title": "Frontend backend separation",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-31-api-based-architecture.md",
+        "id": "api-based-architecture",
+        "title": "Moving to an API based architecture",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-32-building-and-organizing-apis.md",
+        "id": "building-and-organizing-apis",
+        "title": "Building and organizing APIs",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-33-searching-the-rails-docs.md",
+        "id": "searching-the-rails-docs",
+        "title": "Searching the Rails docs",
+        "images": {
+          "count": 8,
+          "alt_data": [
+            {
+              "rails-guide-search.png": "Rails guide search"
+            },
+            {
+              "rails-guide-menu.png": "Edge guide menu"
+            },
+            {
+              "pry-gem-output.png": "Pry gem output"
+            },
+            {
+              "pry-error.png": "Pry error"
+            },
+            {
+              "github-repo-search.png": "Github search in repository"
+            },
+            {
+              "github-repo-search-result.png": "Github repository search results"
+            },
+            {
+              "github-vscode-search.png": "Github VSCode search"
+            },
+            {
+              "vscode-search-with-file.png": "Github VSCode search results"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-34-displaying-list-of-tasks.md",
+        "id": "displaying-list-of-tasks",
+        "title": "Displaying list of tasks",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "displaying-list-of-tasks.png": "displaying list of tasks feature"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-35-side-project-task-3.md",
+        "id": "side-project-task-3",
+        "title": "Side project - Task 3",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "post-listing.png": "Post listing page"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-36-adding-slug-to-task.md",
+        "id": "adding-slug-to-task",
+        "title": "Adding slug to task",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-37-optimizing-slug-generation-process.md",
+        "id": "optimizing-slug-generation-process",
+        "title": "Optimizing slug generation process",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-38-data-validations.md",
+        "id": "data-validations",
+        "title": "Data validations",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-39-adding-a-new-task-using-create-action.md",
+        "id": "adding-a-new-task-using-create-action",
+        "title": "Adding a new task using create action",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "adding-a-task-using-create-action.png": "Adding a task using create action feature"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-40-showing-notifications.md",
+        "id": "showing-notifications",
+        "title": "Showing notifications",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "showing-notifications.png": "Showing notifications"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-41-showing-a-task.md",
+        "id": "showing-a-task",
+        "title": "Showing a task",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "showing-task.png": "Showing a task feature"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-42-find-vs-find-by-vs-where-in-active-record.md",
+        "id": "find-vs-find-by-vs-where-in-active-record",
+        "title": "Active Record finder methods",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-43-updating-task.md",
+        "id": "updating-task",
+        "title": "Updating task",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "updating-a-task.png": "Updating a task feature"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-44-deleting-task.md",
+        "id": "deleting-task",
+        "title": "Deleting task",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-45-callbacks.md",
+        "id": "callbacks",
+        "title": "Active Record callbacks and object life cycle",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-46-class-methods-and-scopes.md",
+        "id": "class-methods-and-scopes",
+        "title": "Class methods and scopes",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-47-side-project-task-4.md",
+        "id": "side-project-task-4",
+        "title": "Side project - Task 4",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "add-post.png": "Adding post"
+            },
+            {
+              "show-post.png": "Showing post"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-48-user-model.md",
+        "id": "user-model",
+        "title": "User model",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-49-defining-associations-and-best-practices.md",
+        "id": "defining-associations-and-best-practices",
+        "title": "Defining associations and best practices",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-50-assigning-tasks-to-user.md",
+        "id": "assigning-tasks-to-user",
+        "title": "Assigning tasks to user",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "user-dropdown.png": "User dropdown"
+            },
+            {
+              "show-user-in-task-details.png": "Assignee in task details"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-51-use-jbuilder-to-render-json.md",
+        "id": "use-jbuilder-to-render-json",
+        "title": "Use Jbuilder to render JSON",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-52-authentication.md",
+        "id": "authentication",
+        "title": "Authentication",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-53-adding-signup-feature.md",
+        "id": "adding-signup-feature",
+        "title": "Adding signup feature",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "signup-page.png": "User signup page"
+            },
+            {
+              "signup-success-toaster.png": "Signup Success Toastr"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-54-login-feature.md",
+        "id": "login-feature",
+        "title": "Adding login feature",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "login-page.png": "User login"
+            },
+            {
+              "username-in-navbar.png": "User name in navbar"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-55-setting-up-rake-tasks.md",
+        "id": "setting-up-rake-tasks",
+        "title": "Setting up Rake tasks",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-56-logout-feature.md",
+        "id": "logout-feature",
+        "title": "Adding logout feature",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-57-side-project-task-5.md",
+        "id": "side-project-task-5",
+        "title": "Side project - Task 5",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "post-listing-with-user.png": "Post listing page"
+            },
+            {
+              "show-post-with-user.png": "Showing post"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-58-testing-user-model.md",
+        "id": "testing-user-model",
+        "title": "Testing User model",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "test-file-naming-suffix.png": "Test file naming without suffix"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-59-test-coverage.md",
+        "id": "test-coverage",
+        "title": "Test coverage",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "test-coverage-report-1.png": "Test coverage report 1"
+            },
+            {
+              "test-coverage-report-2.png": "Test coverage report 2"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-60-introducing-factory-bot.md",
+        "id": "introducing-factory-bot",
+        "title": "Introducing Factory Bot",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-61-authorization.md",
+        "id": "authorization",
+        "title": "Authorization",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-62-ruby-initialize-method.md",
+        "id": "ruby-initialize-method",
+        "title": "Ruby initialize method",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-63-adding-comments-to-tasks.md",
+        "id": "adding-comments-to-tasks",
+        "title": "Adding comments to tasks",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "comments-feature.png": "Comments feature"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-64-avoid-premature-optimization-in-api-calls.md",
+        "id": "avoid-premature-optimization-in-api-calls",
+        "title": "Avoid premature optimization in API calls",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-65-using-enums-in-rails.md",
+        "id": "using-enums-in-rails",
+        "title": "Using Enums in Rails",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-66-marking-the-progress-of-a-task.md",
+        "id": "marking-a-task-as-complete",
+        "title": "Marking a task as complete",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "task-progress-feature.png": "Tasks progress feature"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-67-starring-tasks.md",
+        "id": "starring-tasks",
+        "title": "Starring tasks",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "tasks-starring-feature.png": "Task starring feature"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-68-side-project-task-6.md",
+        "id": "side-project-task-6",
+        "title": "Side project - Task 6",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "post-listing-with-voting.png": "Post listing page"
+            },
+            {
+              "post-listing-with-blog-worthy-tag.png": "Post listing page"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-69-n-1-queries.md",
+        "id": "n-1-queries",
+        "title": "N+1 Queries",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-70-using-counter-cache-to-display-comment-counts.md",
+        "id": "using-counter-cache-to-display-comment-counts",
+        "title": "Using counter cache to display comment counts",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "counter-cache-n+1-queries.png": "N+1 queries."
+            },
+            {
+              "counter-cache-added-server-log.png": "Server log after adding counter cache"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-71-order-of-items-in-active-record-models.md",
+        "id": "order-of-items-in-active-record-models",
+        "title": "Order of items on Active Record models",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-72-deep-diving-into-unit-testing.md",
+        "id": "deep-diving-into-unit-testing",
+        "title": "Deep diving into unit testing",
+        "images": {
+          "count": 5,
+          "alt_data": [
+            {
+              "wrong-class-name-example.png": "Test failure"
+            },
+            {
+              "flaky-tests-1.png": "flaky tests output 1"
+            },
+            {
+              "flaky-tests-2.png": "flaky tests output 2"
+            },
+            {
+              "minitest-bisect-1.png": "minitest-bisect output 1"
+            },
+            {
+              "minitest-bisect-2.png": "minitest-bisect output 1"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-73-controller-tests.md",
+        "id": "controller-tests",
+        "title": "Controller tests",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-74-setting-up-circleci.md",
+        "id": "setting-up-circleci",
+        "title": "Setting up CircleCI",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "circleci-role-not-exist.png": "CircleCI role does not exist"
+            },
+            {
+              "git-hooks-rubocop-non-correctable-offenses.png": "Rubocop uncorrectable offenses."
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-75-bundler-audit.md",
+        "id": "bundler-audit",
+        "title": "Secure gems with bundle audit",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-76-background-job-processing-using-sidekiq.md",
+        "id": "background-job-processing-using-sidekiq",
+        "title": "Background job processing using Sidekiq",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-77-handling-idempotency-when-sending-emails-using-sidekiq.md",
+        "id": "handling-idempotency-when-sending-emails-using-sidekiq",
+        "title": "Handling idempotency when sending emails using Sidekiq",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "handling-idempotency-when-sending-emails-using-sidekiq.png": "Mail delivery feature"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-78-testing-sidekiq-based-email-delivery-feature.md",
+        "id": "testing-sidekiq-based-email-delivery-feature",
+        "title": "Testing Sidekiq based email delivery feature",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-79-keep-application-controller-clean.md",
+        "id": "keep-application-controller-clean",
+        "title": "Keep application controller clean",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-80-using-bang-method.md",
+        "id": "using-bang-method",
+        "title": "Using bang method",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-81-deploying-application-on-heroku.md",
+        "id": "deploying-application-on-heroku",
+        "title": "Deploying the application on Heroku",
+        "images": {
+          "count": 4,
+          "alt_data": [
+            {
+              "postgres-lib-not-loaded-error.png": "Library not loaded error"
+            },
+            {
+              "create-new-pipeline.png": "Create new pipeline"
+            },
+            {
+              "enable-review-apps.png": "Enable review apps"
+            },
+            {
+              "review-app-deployment.png": "Review app deployment"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-82-sidekiq-in-heroku.md",
+        "id": "sidekiq-in-heroku",
+        "title": "Configure Sidekiq in Heroku",
+        "images": {
+          "count": 6,
+          "alt_data": [
+            {
+              "heroku-redis-addon.png": "Heroku Redis Add-on"
+            },
+            {
+              "heroku-redis-addon-plan.png": "Heroku Redis Add-on Plan"
+            },
+            {
+              "heroku-dynos-dashboard.png": "Activate Heroku dynos using dashboard"
+            },
+            {
+              "heroku-config-vars.png": "Heroku Config Vars"
+            },
+            {
+              "heroku-sidekiq-auth.png": "Heroku Sidekiq Auth"
+            },
+            {
+              "sidekiq-web-ui.png": "Sidekiq Web UI"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-83-exception-handling.md",
+        "id": "exception-handling",
+        "title": "Exception handling in Ruby",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-84-how-to-interpret-a-stacktrace.md",
+        "id": "how-to-interpret-a-stacktrace",
+        "title": "How to interpret a stacktrace",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-85-generating-a-pdf-report.md",
+        "id": "generating-a-pdf-report",
+        "title": "Generating a PDF report",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "report-download.png": "Report downloading feature"
+            },
+            {
+              "report-pdf-example.png": "PDF report sample"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-86-optimizing-pdf-report-feature.md",
+        "id": "optimizing-pdf-report-feature",
+        "title": "Optimizing PDF report feature",
+        "images": {
+          "count": 4,
+          "alt_data": [
+            {
+              "download-report-card.png": "PDF report"
+            },
+            {
+              "gcs-bucket.png": "GCS buckets"
+            },
+            {
+              "gcs-service-account.png": "GCS service account"
+            },
+            {
+              "owner-service-account.png": "Owner service account"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-87-cookies.md",
+        "id": "cookies",
+        "title": "Handling cookies",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-88-localstorage-sessionstorage.md",
+        "id": "localstorage-sessionstorage",
+        "title": "Local storage and Session storage",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-89-rails-security-best-practices.md",
+        "id": "rails-security-best-practices",
+        "title": "Rails security best practices",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-90-xss.md",
+        "id": "xss",
+        "title": "XSS attacks",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-91-csrf-attacks.md",
+        "id": "csrf-attacks",
+        "title": "CSRF attacks",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-92-mitigating-xss-while-using-cookies.md",
+        "id": "mitigating-xss-while-using-cookies",
+        "title": "Mitigating XSS when cookies are used",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-93-preventing-csrf-attacks.md",
+        "id": "preventing-csrf-attacks",
+        "title": "Preventing CSRF attacks",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-94-cookie-vs-auth-token.md",
+        "id": "cookie-vs-auth-token",
+        "title": "Cookie vs Auth token",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-95-hsts-and-rails.md",
+        "id": "hsts-and-rails",
+        "title": "HSTS and Rails",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-96-introducing-in-depth-chapters.md",
+        "id": "introducing-in-depth-chapters",
+        "title": "Introducing in depth chapters",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-97-postgresql-in-depth.md",
+        "id": "postgresql-in-depth",
+        "title": "PostgreSQL in depth",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-98-configuring-and-connecting-to-a-database.md",
+        "id": "configuring-and-connecting-to-a-database",
+        "title": "Configuring and connecting to a database",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-99-debugging-memory-issues-in-redis-console.md",
+        "id": "debugging-memory-issues-in-redis-console",
+        "title": "Debugging memory issues in Redis console",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      }
+    ]
+  },
+  "learn-qa-automation-using-cypress": {
+    "chapters_count": 21,
+    "chapters": [
+      {
+        "filename": "CH-01-software-testing-terminologies.md",
+        "id": "software-testing-terminologies",
+        "title": "Software Testing Terminologies",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-02-js-and-file-naming-conventions.md",
+        "id": "js-and-file-naming-conventions",
+        "title": "JS and File Naming Conventions",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-03-introduction-to-cypress.md",
+        "id": "introduction-to-cypress",
+        "title": "Introduction to Cypress",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-04-how-to-run-cypress-tests.md",
+        "id": "how-to-run-cypress-tests",
+        "title": "How to run Cypress tests",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "cypress-window.png": "Cypress window"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-05-test-suite-and-test-case.md",
+        "id": "test-suite-and-test-case",
+        "title": "Test Suite and Test Case",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-06-hooks-in-cypress.md",
+        "id": "hooks-in-cypress",
+        "title": "Using hooks in Cypress",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-07-writing-a-test-case-in-cypress.md",
+        "id": "writing-a-test-case-in-cypress",
+        "title": "Writing a test case in cypress",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-08-commonly-used-cypress-commands.md",
+        "id": "commonly-used-cypress-commands",
+        "title": "Commonly used Cypress commands",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-09-data-cy-conventions.md",
+        "id": "data-cy-conventions",
+        "title": "data-cy conventions",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-10-custom-commands-in-cypress.md",
+        "id": "custom-commands-in-cypress",
+        "title": "Custom Commands in Cypress",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-11-utility-functions-in-cypress.md",
+        "id": "utility-functions-in-cypress",
+        "title": "Utility Functions in Cypress",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-12-how-to-wait-for-api-response.md",
+        "id": "how-to-wait-for-api-response",
+        "title": "How to wait for API response",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-13-fixtures-in-cypress.md",
+        "id": "fixtures-in-cypress",
+        "title": "Fixtures in Cypress",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-14-organizing-and-maintaining-cypress-tests.md",
+        "id": "organizing-and-maintaining-cypress-tests",
+        "title": "Organizing and maintaining Cypress tests",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "wGoGG5Z.png": "Use within() for narrowing the scope"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-15-organizing-selectors-and-texts.md",
+        "id": "organizing-selectors-and-texts",
+        "title": "Selectors and texts",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "xIMQtdo.png": ""
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-16-flaky-tests.md",
+        "id": "flaky-tests",
+        "title": "Flaky Tests",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-17-cypress-best-practices.md",
+        "id": "cypress-best-practices",
+        "title": "Cypress Best Practices",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "custom-commands-functional.png": "Custom Commands to be purely functional"
+            },
+            {
+              "use-visible-instead-of-exist.png": "Use visible instead of exist"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-18-project-settings.md",
+        "id": "project-settings",
+        "title": "Project Settings",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-19-writing-tests.md",
+        "id": "writing-tests",
+        "title": "Writing Tests",
+        "images": {
+          "count": 4,
+          "alt_data": [
+            {
+              "pane-form-component.png": "Pane Form Component"
+            },
+            {
+              "name-taken-toastr-message.png": "Pane Form Component"
+            },
+            {
+              "delete-tag-modal.png": "Delete tag modal"
+            },
+            {
+              "form-with-required-category-field.png": "Form with required category"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-20-session-command.md",
+        "id": "session-command",
+        "title": "Session Command",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-21-cy.request-command.md",
+        "id": "cy.request-command",
+        "title": "cy.request command",
+        "images": {
+          "count": 3,
+          "alt_data": [
+            {
+              "request-and-headers.png": "Request and Headers in Network tab"
+            },
+            {
+              "payload.png": "Analyzing request payload in the Network tab"
+            },
+            {
+              "response.png": "Analyzing response preview in the Network tab"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "learn-react-native": {
+    "chapters_count": 16,
+    "chapters": [
+      {
+        "filename": "CH-01-introduction-to-react-native.md",
+        "id": "introduction-to-react-native",
+        "title": "Introduction to React Native",
+        "images": {
+          "count": 3,
+          "alt_data": [
+            {
+              "113819361-d0dd8880-9796-11eb-9382-ea95b599bb04.jpg": "React Native project structure"
+            },
+            {
+              "109434854-33779200-7a3d-11eb-830c-8e7f1f7d134c.jpg": "Hello, React Native! app screenshots"
+            },
+            {
+              "113818615-a9d28700-9795-11eb-91e7-8fcbad1ef6a1.jpg": "BigBinary React Native Book - Introduction Assignment task design"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-02-styling-in-react-native.md",
+        "id": "styling-in-react-native",
+        "title": "Styling in React Native",
+        "images": {
+          "count": 9,
+          "alt_data": [
+            {
+              "113820482-63325c00-9798-11eb-9a15-981e6b78705f.jpg": "Hello, React Native!"
+            },
+            {
+              "113820493-662d4c80-9798-11eb-96e7-32c87998b23e.jpg": "SafeArea iOS"
+            },
+            {
+              "113821533-d7213400-9799-11eb-9263-fd34ccc24343.jpg": "Hello, React Native!"
+            },
+            {
+              "113821518-d38dad00-9799-11eb-95ca-2299052db6de.jpg": "Styled Hello, React Native!"
+            },
+            {
+              "113821528-d6889d80-9799-11eb-8780-d860d4f89c93.jpg": "Styled Hello, React Native!"
+            },
+            {
+              "113821523-d4beda00-9799-11eb-8753-949e60aa0a3d.jpg": "Styled Hello, React Native!"
+            },
+            {
+              "113821509-cffa2600-9799-11eb-878c-628436884e8c.jpg": "Styled Hello, React Native!"
+            },
+            {
+              "113822006-8100c080-979a-11eb-9809-813b734b0af9.jpg": "Styled Hello, React Native!"
+            },
+            {
+              "113821526-d5f00700-9799-11eb-877b-b915ebd17ec1.jpg": "React Native task 01"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "RN-accessing-localhost-from-rn.md",
+        "id": "accessing-localhost-from-rn",
+        "title": "Accessing localhost from React Native",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-adding-custom-fonts.md",
+        "id": "adding-custom-fonts",
+        "title": "Adding custom fonts in React Native 0.60+",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-dont-avoid-warnings.md",
+        "id": "dont-avoid-warnings",
+        "title": "Don't ignore WARNINGS",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "116065822-080fcd00-a6a5-11eb-82e0-8cb672f2cad1.png": "Warnings"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "RN-external-packages-we-use.md",
+        "id": "external-packages-we-use",
+        "title": "External packages we use in React Native",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-firebase-remote-config.md",
+        "id": "react-native-firebase-remote-config",
+        "title": "Using Firebase Remote Config",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-handling-authentication-state-in-react-native.md",
+        "id": "handling-authentication-state-in-react-native",
+        "title": "Handling authentication state in React Native",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-handling-environment-specific-configurations-in-react-native.md",
+        "id": "handling-environment-specific-configurations-in-react-native",
+        "title": "Handling environment specific configurations in React Native",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-in-app-purchase.md",
+        "id": "react-native-in-app-purchase",
+        "title": "InApp Purchase",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-initial-repo-configurations.md",
+        "id": "initial-repo-configurations",
+        "title": "Initial configurations for RN repository",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-navigation-5.x.x.md",
+        "id": "react-native-navigation-5.x.x",
+        "title": "Navigation Version 5",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-navigation-best-practices.md",
+        "id": "navigation-best-practices",
+        "title": "Navigation best practices",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-no-more-manual-linking.md",
+        "id": "no-more-manual-linking",
+        "title": "No more manual linking",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-upgrade-resources.md",
+        "id": "react-native-upgrade-resources",
+        "title": "Upgrading React Native",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "RN-using-nested-navigators.md",
+        "id": "react-native-using-nested-navigators",
+        "title": "Using Nested Navigators",
+        "images": {
+          "count": 3,
+          "alt_data": [
+            {
+              "122767052-dccde680-d2bf-11eb-896b-22a3e6b89884.png": "nested-navigators-RN"
+            },
+            {
+              "122945074-ef1a5400-d395-11eb-80fb-4574bb894542.png": "src-structure"
+            },
+            {
+              "122937673-c98a4c00-d38f-11eb-8841-3efef20381dd.jpg": "home-details"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "how-we-work": {
+    "chapters_count": 41,
+    "chapters": [
+      {
+        "filename": "2013-01-01-how-we-work-intro.md",
+        "id": "how-we-work-intro",
+        "title": "Introduction",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2013-01-01-thought-zone-intro.md",
+        "id": "thought-zone-intro",
+        "title": "Be in Thought Zone",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2013-01-05-working-remotely.md",
+        "id": "working-remotely",
+        "title": "Working Remotely",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2013-03-08-configure-command-prompt.md",
+        "id": "configure-command-prompt",
+        "title": "Configure Command Prompt",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2013-03-11-autosetuprebase.md",
+        "id": "autosetuprebase",
+        "title": "Use autosetuprebase",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2013-05-09-how-we-use-services-and-carriers.md",
+        "id": "how-we-use-services-and-carriers",
+        "title": "How We Use Services & Carriers",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2013-05-10-confident-code.md",
+        "id": "confident-code",
+        "title": "Trust data",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2013-05-16-do-not-use-or-and-in-ruby.md",
+        "id": "do-not-use-or-and-in-ruby",
+        "title": "Do not use \"or\" & \"and\" in Ruby",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2013-05-18-memoization.md",
+        "id": "memoization",
+        "title": "Use underscore prefix for memoization",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-04-action-not-blank.md",
+        "id": "action-not-blank",
+        "title": "Do not leave action implementation blank",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-06-fully-spell-out-variable-names.md",
+        "id": "fully-spell-out-variable-names",
+        "title": "Fully spell out variable names",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-07-variables-names-should-match-with-domain.md",
+        "id": "variables-names-should-match-with-domain",
+        "title": "Variable names should match with domain",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-08-fixme-todo.md",
+        "id": "fixme-todo",
+        "title": "FIXME and TODO",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-09-use-self-to-declare-class-methods.md",
+        "id": "use-self-to-declare-class-methods",
+        "title": "Use self to declare class methods",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-10-prefer-do-end-while-creating-blocks-in-ruby.md",
+        "id": "prefer-do-end-while-creating-blocks-in-ruby",
+        "title": "Prefer do end while creating blocks in ruby",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-11-no-trailing-if-for-multiline-code.md",
+        "id": "no-trailing-if-for-multiline-code",
+        "title": "Prefer no trailing if for multiline code",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-12-oliver-and-eve.md",
+        "id": "oliver-and-eve",
+        "title": "Oliver & Eve",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-13-organizing-controllers.md",
+        "id": "organizing-controllers",
+        "title": "Organizing controllers",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-14-prefer-attr-reader-to-instance-variables.md",
+        "id": "prefer-attr-reader-to-instance-variables",
+        "title": "Prefer using attr_readers, attr_writers",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-15-empty-line-after-import.md",
+        "id": "empty-line-after-import",
+        "title": "Empty line after the import statements",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-06-17-empty-line-at-the-end.md",
+        "id": "empty-line-at-the-end",
+        "title": "Empty line at the end of the file is not needed",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-07-02-meaningful-names-in-test.md",
+        "id": "meaningful-names-in-test",
+        "title": "Have meaningful name in tests",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-07-04-running-tests.md",
+        "id": "running-tests",
+        "title": "Running tests",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-08-01-external-services.md",
+        "id": "external-services",
+        "title": "External services",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-09-02-creating-issue.md",
+        "id": "creating-issue",
+        "title": "Creating an issue in github",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "sortby.png": ""
+            }
+          ]
+        }
+      },
+      {
+        "filename": "2014-09-03-how-to-find-all-issues-assigned-to-me.md",
+        "id": "how-to-find-all-issues-assigned-to-me",
+        "title": "How to find all issues assigned to me",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-09-04-prefer-github-over-slack.md",
+        "id": "prefer-github-over-slack",
+        "title": "Prefer github over slack for communicating",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-09-05-create-branch-starting-with-issue-number.md",
+        "id": "create-branch-starting-with-issue-number",
+        "title": "Create branch starting with issue number",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-09-06-do-not-mention-issue-number-in-pr-title.md",
+        "id": "do-not-mention-issue-number-in-pr-title",
+        "title": "Do not mention issue number in the title of PR",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-09-07-mention-closes-fixes-resolves.md",
+        "id": "mention-closes-fixes-resolves",
+        "title": "PR should mention fixes or closes issue number",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-09-09-how-to-rebase.md",
+        "id": "how-to-rebase",
+        "title": "How to Rebase a pull request",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-09-10-master-branch.md",
+        "id": "master-branch",
+        "title": "Pull requests are merged in master",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-09-17-hit-y-before-copying-url-from-github.md",
+        "id": "hit-y-before-copying-url-from-github",
+        "title": "Hit y before copying url from github",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-09-18-take-screenshot-with-url.md",
+        "id": "take-screenshot-with-url",
+        "title": "Take screenshot with the URL",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "no_url.png": ""
+            },
+            {
+              "yes_url.png": ""
+            }
+          ]
+        }
+      },
+      {
+        "filename": "2014-09-19-epic-tag.md",
+        "id": "epic-tag",
+        "title": "Epic Tag",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-10-01-copy-production-data-to-staging.md",
+        "id": "copy-production-data-to-staging",
+        "title": "Copy production data to staging",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2014-10-02-download-staging-data-to-local-machine.md",
+        "id": "download-staging-data-to-local-machine",
+        "title": "Download staging data to local machine",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2018-02-01-ventilated-prose-for-writing-blog.md",
+        "id": "ventilated-prose-for-writing-blog",
+        "title": "Write blog using ventilated prose style",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2018-02-03-use-we.md",
+        "id": "use-we",
+        "title": "Use we",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2018-02-07-do-not-use-foo-bar-baz.md",
+        "id": "do-not-use-foo-bar-baz",
+        "title": "Do not use foo, bar & baz",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "2113-01-01-outro.md",
+        "id": "outro",
+        "title": "Thank you for reading!",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      }
+    ]
+  },
+  "handling-stripe-subscriptions": {
+    "chapters_count": 12,
+    "chapters": [
+      {
+        "filename": "CH-01-setting-up-stripe-account.md",
+        "id": "setting-up-stripe-account",
+        "title": "Setting up Stripe account",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "edit_account.png": "Account Dropdown"
+            },
+            {
+              "api_keys.png": "API Keys"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-02-modelling-product-and-prices-in-stripe.md",
+        "id": "modelling-product-and-prices-in-stripe",
+        "title": "Modelling product and prices in Stripe",
+        "images": {
+          "count": 5,
+          "alt_data": [
+            {
+              "products.png": "Products"
+            },
+            {
+              "create_a_product.png": "Create a product"
+            },
+            {
+              "add_price.png": "Add a price"
+            },
+            {
+              "create_a_price.png": "Create a price"
+            },
+            {
+              "product.png": "Product Details"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-03-accepting-payments-using-stripe.md",
+        "id": "accepting-payments-using-stripe",
+        "title": "Accepting payments using stripe",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "CH-04-working-with-a-subscription.md",
+        "id": "working-with-a-subscription",
+        "title": "Working with a subscription",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "manage-failed-payments-billing.png": "Manage failed payments"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-05-cancelling-a-subscription.md",
+        "id": "cancelling-a-subscription",
+        "title": "Cancelling a subscription",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "manage-disputes-billing.png": "Manage disputes billing"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-06-handling-discounts.md",
+        "id": "handling-discounts",
+        "title": "Handling Discounts",
+        "images": {
+          "count": 19,
+          "alt_data": [
+            {
+              "coupons.png": "Coupons"
+            },
+            {
+              "create_a_coupon.png": "Create a Coupon"
+            },
+            {
+              "add_promotion_code.png": "Add Promotion Code"
+            },
+            {
+              "create_promotion_code.png": "Create a Promotion Code"
+            },
+            {
+              "checkout_session_with_promotion_code.png": "Checkout Session with promotion code"
+            },
+            {
+              "checkout_session_with_promotion_code_applied.png": "Checkout Session with promotion code applied"
+            },
+            {
+              "flat_10_coupon.png": "Coupon flat 10%"
+            },
+            {
+              "subscriptions.png": "Subscriptions"
+            },
+            {
+              "add_10_coupon.png": "Add coupon to a subscription"
+            },
+            {
+              "flat_10_promotion_code.png": "FLAT10PROMO"
+            },
+            {
+              "subscription.png": "Subscription ID"
+            },
+            {
+              "flat_10_coupon_details.png": "Promotion Code"
+            },
+            {
+              "create_flat_5_coupon.png": "Create a Flat 5 coupon"
+            },
+            {
+              "apply_coupon_to_customer.png": "Apply coupon to customer"
+            },
+            {
+              "create_yearly_subscription.png": "Create Yearly Subscription"
+            },
+            {
+              "applicable_coupons.png": "Applicable coupons"
+            },
+            {
+              "delete_subscription_coupon.png": "Delete subscription coupon"
+            },
+            {
+              "delete_customer_coupon.png": "Delete customer coupon"
+            },
+            {
+              "yearly_standard_subscription.png": "Yearly standard subscription"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-07-designing-database-for-subscription.md",
+        "id": "designing-database-for-subscription",
+        "title": "Designing database for subscription",
+        "images": {
+          "count": 1,
+          "alt_data": [
+            {
+              "designing-database-for-subscription.png": "Database design"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-08-enabling-disabling-address-collection-in-stripe-checkout.md",
+        "id": "enabling-disabling-address-collection-in-stripe-checkout",
+        "title": "Enabling or disabling address collection in Stripe Checkout",
+        "images": {
+          "count": 3,
+          "alt_data": [
+            {
+              "checkout_session_without_address.png": "Checkout Session Without Address Field"
+            },
+            {
+              "checkout_session_with_address.png": "Checkout Session With Address Field"
+            },
+            {
+              "account_settings.png": "Account Settings"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-09-handling-stripe-webhooks.md",
+        "id": "handling-stripe-webhooks",
+        "title": "Handling Stripe webhooks and corresponding events",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "webhook.png": "Webhook"
+            },
+            {
+              "create_a_webhook.png": "Create a webhook"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-10-metered-billing-subscriptions.md",
+        "id": "metered-billing-subscriptions",
+        "title": "Metered Billing Subscriptions",
+        "images": {
+          "count": 10,
+          "alt_data": [
+            {
+              "products.png": "Products"
+            },
+            {
+              "create_email_product.png": "Create Email Product"
+            },
+            {
+              "email_basic_pricing.png": "Basic Pricing"
+            },
+            {
+              "create_email_premium_price.png": "Premium Pricing"
+            },
+            {
+              "email_product.png": "Product Details"
+            },
+            {
+              "create_metered_subscription.png": "Create Yearly Subscription"
+            },
+            {
+              "metered_billing_usage.png": "Basic option Subscription"
+            },
+            {
+              "subscription_item_id.png": "Subscription Item ID"
+            },
+            {
+              "view_usage.png": "Subscription Usage"
+            },
+            {
+              "current_usage.png": "Current Usage"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-11-handling-refunds.md",
+        "id": "handling-refunds",
+        "title": "Handling Refunds",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "refund.png": "Refund Payment"
+            },
+            {
+              "issue_refund.png": "Issue Refund"
+            }
+          ]
+        }
+      },
+      {
+        "filename": "CH-12-working-with-legacy-stripe-api.md",
+        "id": "working-with-legacy-stripe-api",
+        "title": "Working With Legacy Stripe API",
+        "images": {
+          "count": 2,
+          "alt_data": [
+            {
+              "dashboard-api-version.png": "Dashboard API version"
+            },
+            {
+              "stripe-developer-digest-newsletter.png": "Stripe Developer Digest"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "books.json": {
+    "chapters_count": 0,
+    "chapters": [
+
+    ]
+  },
+  "conversation": {
+    "chapters_count": 10,
+    "chapters": [
+      {
+        "filename": "01-return-200-when-it-is-all-good.md",
+        "id": "return-200-when-it-is-all-good",
+        "title": "Return 200 when it's all good",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "02-return-400-when-payload-is-not-valid.md",
+        "id": "return-400-when-payload-is-not-valid",
+        "title": "Return 400 when invalid request payload",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "03-return-422-when-input-data-is-not-valid.md",
+        "id": "return-422-when-input-data-is-not-valid",
+        "title": "Return 422 when the input data is invalid",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "04-return-401-when-user-is-not-authorized.md",
+        "id": "return-401-when-user-is-not-authorized",
+        "title": "Return 401 when the user is not authenticated",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "05-return-403-when-user-is-not-authorized.md",
+        "id": "return-403-when-user-is-not-authorized",
+        "title": "Return 403 when the user is not authorized",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "06-return-404-when-user-is-not-found.md",
+        "id": "return-404-when-user-is-not-found",
+        "title": "Return 404 when no record is found",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "06-return-500-when-erro-is-encountered.md",
+        "id": "return-500-when-erro-is-encountered",
+        "title": "Return 500 when an error is encountered",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "08-no-need-to-have-success-key-in-response.md",
+        "id": "no-need-to-have-success-key-in-response",
+        "title": "Success key not needed in response",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "09-do-not-use-redirect-in-api.md",
+        "id": "do-not-use-redirect-in-api",
+        "title": "Do not use redirect in API",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      },
+      {
+        "filename": "10-return-valid-json-with-nice-error-message-even-when-things-go-wrong.md",
+        "id": "return-valid-json-with-nice-error-message-even-when-things-go-wrong",
+        "title": "Response should be valid JSON even when things go wrong",
+        "images": {
+          "count": 0,
+          "alt_data": [
+
+          ]
+        }
+      }
+    ]
+  }
+}
