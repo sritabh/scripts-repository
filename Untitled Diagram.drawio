@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+  <diagram name="Page-1" id="SSzMfHvwIdfggM3md5LJ">
+    <mxGraphModel dx="1566" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19200" pageHeight="12000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-1" edge="1" target="PlvmzQfx7ljTFL7CO23Y-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-1" value="Prompt for AI::Assistant" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="470" y="140" width="220" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-2" value="System Prompt" style="rounded=1;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-1" vertex="1">
+          <mxGeometry x="50" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-3" value="User Base Prompt" style="rounded=1;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-1" vertex="1">
+          <mxGeometry x="50" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-9" value="Campaign level" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-1" vertex="1">
+          <mxGeometry x="20" y="230" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-4" value="Campaign Level Instruction" style="rounded=1;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-9" vertex="1">
+          <mxGeometry x="40" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-8" value="Data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="PlvmzQfx7ljTFL7CO23Y-9" vertex="1">
+          <mxGeometry x="70" y="100" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CMrl497mcLFZJ8g_c2Jp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="PlvmzQfx7ljTFL7CO23Y-1" source="CMrl497mcLFZJ8g_c2Jp-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210.0689655172414" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CMrl497mcLFZJ8g_c2Jp-7" value="User Prompt" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="PlvmzQfx7ljTFL7CO23Y-1">
+          <mxGeometry x="10" y="110" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-26" edge="1" target="PlvmzQfx7ljTFL7CO23Y-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="710" as="targetPoint" />
+            <mxPoint x="620" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-14" target="PlvmzQfx7ljTFL7CO23Y-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-14" value="Assistant Call" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="740" y="680" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-15" value="@datasheetManagerTool" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="672.5" width="170" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-17" target="PlvmzQfx7ljTFL7CO23Y-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="1340" y="660" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-15" target="PlvmzQfx7ljTFL7CO23Y-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-19" value="Data stored in datasheet of campaign&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1315" y="750" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-20" value="Campaign Level Instruction" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="160" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-21" value="Includes campaign level information" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-20" vertex="1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-23" value="Includes how to interpret data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-20" vertex="1">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="410" />
+              <mxPoint x="720" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-26" value="Prompt parsing" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-27" value="Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="780" y="320" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-28" value="Assessment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-29" value="Assessor Assessment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-30" value="Scoring" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
+          <mxGeometry y="90" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-32" value="Campaign level data like datasheet&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
+          <mxGeometry y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="555" as="sourcePoint" />
+            <mxPoint x="860" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-33" value="Report Builder" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1270" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-34" value="Data can be used from AI generated datasheet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PlvmzQfx7ljTFL7CO23Y-33" vertex="1">
+          <mxGeometry x="15" y="35" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="CMrl497mcLFZJ8g_c2Jp-1" value="User Prompt" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="410" width="190" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="CMrl497mcLFZJ8g_c2Jp-2" value="Campaign Information common to all campaign, e.g. output column for datasheet" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMrl497mcLFZJ8g_c2Jp-1">
+          <mxGeometry y="30" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="CMrl497mcLFZJ8g_c2Jp-3" value="Delegates structure of output for campaign instruction&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="CMrl497mcLFZJ8g_c2Jp-1">
+          <mxGeometry y="100" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CMrl497mcLFZJ8g_c2Jp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PlvmzQfx7ljTFL7CO23Y-3" target="CMrl497mcLFZJ8g_c2Jp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CMrl497mcLFZJ8g_c2Jp-5" value="Generated Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="672.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
