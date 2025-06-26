@@ -49,7 +49,7 @@
         <mxCell id="bE3iOkApcKu_SPNstHbB-5" value="Prompts" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-2">
           <mxGeometry y="90" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-6" value="Type (e.g. Content Writer)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-2">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-6" value="Type (e.g. Content Writer, IDP Assistant)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-2">
           <mxGeometry y="120" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-7" value="Dependency (e.g. Assessment, Datasheet)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-2">
