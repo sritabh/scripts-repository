@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="SSzMfHvwIdfggM3md5LJ">
-    <mxGraphModel dx="1851" dy="13253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19200" pageHeight="12000" math="0" shadow="0">
+    <mxGraphModel dx="2262" dy="13531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19200" pageHeight="12000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -363,6 +363,27 @@
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-144" value="Add Dependencies" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-141">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-145" value="Report Builder to use Assistant content" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="900" width="490" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="bE3iOkApcKu_SPNstHbB-145" source="bE3iOkApcKu_SPNstHbB-146" target="bE3iOkApcKu_SPNstHbB-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-146" value="Select Campaign AI Assistants as Data source" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-145">
+          <mxGeometry x="30" y="50" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-147" value="Select assistant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-146">
+          <mxGeometry y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-148" value="Select output key" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-146">
+          <mxGeometry y="80" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-150" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 19px; line-height: 100%;&quot;&gt;Summary&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 8px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400;&quot;&gt;{&quot;type&quot;:&quot;CampaignAIAssistant&quot;,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400;&quot;&gt;&quot;code&quot;:&quot;adnoc_assistant&quot;, &quot;key&quot;: &quot;summary&quot;}&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-145">
+          <mxGeometry x="230" y="45" width="230" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-152" value="Report Text box" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-145">
+          <mxGeometry x="230" y="30" width="230" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
