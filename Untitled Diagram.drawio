@@ -1,66 +1,35 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="SSzMfHvwIdfggM3md5LJ">
-    <mxGraphModel dx="1454" dy="984" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19200" pageHeight="12000" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="13253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19200" pageHeight="12000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-1" target="PlvmzQfx7ljTFL7CO23Y-26" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="570" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-1" value="Prompt for AI::Assistant" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="140" width="220" height="440" as="geometry" />
-        </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-2" value="System Prompt" style="rounded=1;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-1" vertex="1">
-          <mxGeometry x="50" y="30" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-3" value="User Base Prompt" style="rounded=1;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-1" vertex="1">
-          <mxGeometry x="50" y="145" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-9" value="Campaign level" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-1" vertex="1">
-          <mxGeometry x="20" y="230" width="180" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-4" value="Campaign Level Instruction" style="rounded=1;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-9" vertex="1">
-          <mxGeometry x="40" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-8" value="Data" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="PlvmzQfx7ljTFL7CO23Y-9" vertex="1">
-          <mxGeometry x="70" y="100" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="CMrl497mcLFZJ8g_c2Jp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="PlvmzQfx7ljTFL7CO23Y-1" source="CMrl497mcLFZJ8g_c2Jp-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210.0689655172414" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CMrl497mcLFZJ8g_c2Jp-7" value="User Prompt" style="swimlane;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-1" vertex="1">
-          <mxGeometry x="10" y="110" width="200" height="320" as="geometry" />
-        </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-26" target="PlvmzQfx7ljTFL7CO23Y-14" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="710" as="targetPoint" />
-            <mxPoint x="620" y="710" as="sourcePoint" />
+            <mxPoint x="1600" y="1229" as="targetPoint" />
+            <mxPoint x="1510" y="1229" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-14" target="PlvmzQfx7ljTFL7CO23Y-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-14" value="Assistant Call" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="740" y="680" width="130" height="60" as="geometry" />
+          <mxGeometry x="1630" y="1199" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-15" value="@datasheetManagerTool" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="675" width="170" height="75" as="geometry" />
+          <mxGeometry x="2120" y="1194" width="170" height="75" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-17" target="PlvmzQfx7ljTFL7CO23Y-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="1510" y="660" width="60" height="80" as="geometry" />
+          <mxGeometry x="2400" y="1179" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-15" target="PlvmzQfx7ljTFL7CO23Y-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-20" value="Campaign Level Instruction" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="160" width="190" height="90" as="geometry" />
+          <mxGeometry x="790" y="-661" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-21" value="Includes campaign level information" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-20" vertex="1">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
@@ -68,50 +37,29 @@
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-23" value="Includes how to interpret data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-20" vertex="1">
           <mxGeometry y="60" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="235" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="720" y="410" />
-              <mxPoint x="720" y="235" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-26" value="Prompt parsing" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="670" width="120" height="80" as="geometry" />
+          <mxGeometry x="1410" y="1189" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-27" value="Data" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="320" width="190" height="150" as="geometry" />
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-27" value="Dependency Resolver" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="790" y="-501" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-28" value="Assessment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-28" value="Assessments" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-29" value="Assessor Assessment" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-29" value="Datasheet" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
           <mxGeometry y="60" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-30" value="Scoring" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
+        <mxCell id="PlvmzQfx7ljTFL7CO23Y-30" value="Any other dependency" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
           <mxGeometry y="90" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-32" value="Campaign level data like datasheet&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
-          <mxGeometry y="120" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="PlvmzQfx7ljTFL7CO23Y-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="555" as="sourcePoint" />
-            <mxPoint x="860" y="480" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="860" y="510" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-33" value="Report Builder" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="290" width="200" height="200" as="geometry" />
+          <mxGeometry x="2330" y="809" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-34" value="Data can be used from AI generated datasheet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PlvmzQfx7ljTFL7CO23Y-33" vertex="1">
           <mxGeometry x="15" y="35" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CMrl497mcLFZJ8g_c2Jp-1" value="User Prompt" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="170" y="410" width="190" height="160" as="geometry" />
+          <mxGeometry x="180" y="-411" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CMrl497mcLFZJ8g_c2Jp-2" value="Campaign Information common to all campaign, e.g. output column for datasheet" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CMrl497mcLFZJ8g_c2Jp-1" vertex="1">
           <mxGeometry y="30" width="190" height="70" as="geometry" />
@@ -119,23 +67,140 @@
         <mxCell id="CMrl497mcLFZJ8g_c2Jp-3" value="Delegates structure of output for campaign instruction&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CMrl497mcLFZJ8g_c2Jp-1" vertex="1">
           <mxGeometry y="100" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CMrl497mcLFZJ8g_c2Jp-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="PlvmzQfx7ljTFL7CO23Y-3" target="CMrl497mcLFZJ8g_c2Jp-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CMrl497mcLFZJ8g_c2Jp-5" value="Generated Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="930" y="672.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="1820" y="1191.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2Rf-Foa6_MN_TzK8YG6o-1" value="Data in Datasheet" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="150" width="490" height="660" as="geometry" />
+        <mxCell id="2Rf-Foa6_MN_TzK8YG6o-1" value="Data in Datasheet" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2080" y="669" width="490" height="660" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-19" value="Data stored in datasheet of campaign&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="2Rf-Foa6_MN_TzK8YG6o-1" vertex="1">
           <mxGeometry x="295" y="600" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2Rf-Foa6_MN_TzK8YG6o-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Data Storage Module&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1272.5" y="121" width="297.5" height="19" as="geometry" />
+        <mxCell id="2Rf-Foa6_MN_TzK8YG6o-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Data Storage Module&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2162.5" y="640" width="297.5" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="2Rf-Foa6_MN_TzK8YG6o-4" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;POC 1&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="40" width="1830" height="840" as="geometry" />
+        <mxCell id="bE3iOkApcKu_SPNstHbB-1" value="Assistant" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-60" width="320" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-2" value="Core" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-1">
+          <mxGeometry x="20" y="40" width="270" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-3" value="Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-2">
+          <mxGeometry y="30" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-4" value="Code(Unique for the assistant)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-2">
+          <mxGeometry y="60" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-5" value="Prompts" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-2">
+          <mxGeometry y="90" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-6" value="Type (e.g. Content Writer)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-2">
+          <mxGeometry y="120" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-7" value="Dependency (e.g. Assessment, Datasheet)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-2">
+          <mxGeometry y="150" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-8" value="Output Schema(Required for content writer" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;perimeterSpacing=1;rounded=0;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-2">
+          <mxGeometry y="180" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-1">
+          <mxGeometry x="20" y="260" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-21" value="Owner, Description,&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-1">
+          <mxGeometry x="30" y="270" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-9" value="Assistant::Output Schema" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="210" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-10" value="key values" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-9">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-11" value="key types" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-9">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-12" value="key description" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-9">
+          <mxGeometry y="90" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bE3iOkApcKu_SPNstHbB-8" target="bE3iOkApcKu_SPNstHbB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bE3iOkApcKu_SPNstHbB-5" target="bE3iOkApcKu_SPNstHbB-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-16" value="Campaign AI Assistant" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="-60" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-18" value="AI::Assistant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-16">
+          <mxGeometry y="30" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-19" value="Campaign Instruction" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-16">
+          <mxGeometry y="60" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-24" value="Dependency Resolver" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-16">
+          <mxGeometry y="90" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-32" value="Prompt for AI::Assistant" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="471" y="-780" width="220" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-33" value="System Prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-32">
+          <mxGeometry x="49" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="bE3iOkApcKu_SPNstHbB-32" source="bE3iOkApcKu_SPNstHbB-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-201" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-34" value="User Base Prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-32">
+          <mxGeometry x="49" y="145" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-35" value="Campaign level" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-32">
+          <mxGeometry x="19" y="230" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-36" value="Campaign Level Instruction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-35">
+          <mxGeometry x="40" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="bE3iOkApcKu_SPNstHbB-32" source="bE3iOkApcKu_SPNstHbB-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="209.0689655172414" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-38" value="User Prompt" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-32">
+          <mxGeometry x="9" y="110" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-39" value="Dependency Resolver" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-38">
+          <mxGeometry x="75" y="220" width="70" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.126;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bE3iOkApcKu_SPNstHbB-36" target="PlvmzQfx7ljTFL7CO23Y-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.012;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bE3iOkApcKu_SPNstHbB-39" target="PlvmzQfx7ljTFL7CO23Y-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-45" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Dependency Resolver&lt;/h1&gt;&lt;p&gt;Based on the selected AI::Assistant and it&#39;s dependency requirement, at campaign level we would include those dependencies.&lt;/p&gt;&lt;p&gt;For example: If Assessment is a dependency, then at campaign level we will select which assessments we need data of.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="100" width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bE3iOkApcKu_SPNstHbB-24" target="bE3iOkApcKu_SPNstHbB-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-47" value="Prompt" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-48" value="System Prompt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-47">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-49" value="User Prompt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-47">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Campaign Instruction&lt;/h1&gt;&lt;p&gt;External data from data sheet can be defined by using this field. It can also be helpful in directing the focu of the assistant to a particularly important data. e.g. Certain weights to particular assessment or column of datasheet.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-280" width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bE3iOkApcKu_SPNstHbB-19" target="bE3iOkApcKu_SPNstHbB-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-53" value="Prompt Definition" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-861" width="950" height="651" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
