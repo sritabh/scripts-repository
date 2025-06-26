@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="SSzMfHvwIdfggM3md5LJ">
-    <mxGraphModel dx="2262" dy="13531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19200" pageHeight="12000" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="13253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19200" pageHeight="12000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-20" value="Campaign Level Instruction" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="-661" width="190" height="90" as="geometry" />
+          <mxGeometry x="790" y="-460" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-21" value="Includes campaign level information" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-20" vertex="1">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry y="60" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-27" value="Dependency Resolver" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="790" y="-501" width="190" height="120" as="geometry" />
+          <mxGeometry x="790" y="-300" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="PlvmzQfx7ljTFL7CO23Y-28" value="Assessments" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="PlvmzQfx7ljTFL7CO23Y-27" vertex="1">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry y="90" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CMrl497mcLFZJ8g_c2Jp-1" value="User Prompt" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="-411" width="190" height="160" as="geometry" />
+          <mxGeometry x="180" y="-210" width="190" height="160" as="geometry" />
         </mxCell>
         <mxCell id="CMrl497mcLFZJ8g_c2Jp-2" value="Campaign Information common to all campaign, e.g. output column for datasheet" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="CMrl497mcLFZJ8g_c2Jp-1" vertex="1">
           <mxGeometry y="30" width="190" height="70" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry y="100" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-1" value="Assistant" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-60" width="320" height="320" as="geometry" />
+          <mxGeometry x="100" y="141" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-2" value="Core" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-1">
           <mxGeometry x="20" y="40" width="270" height="210" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="30" y="270" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-9" value="Assistant::Output Schema" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="210" width="220" height="120" as="geometry" />
+          <mxGeometry x="550" y="411" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-10" value="key values" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-9">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
@@ -81,11 +81,11 @@
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=-0.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bE3iOkApcKu_SPNstHbB-5" target="bE3iOkApcKu_SPNstHbB-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="10" as="targetPoint" />
+            <mxPoint x="560" y="211" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-16" value="Campaign AI Assistant" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="-60" width="310" height="120" as="geometry" />
+          <mxGeometry x="940" y="141" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-18" value="AI::Assistant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-16">
           <mxGeometry y="30" width="310" height="30" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry y="90" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-32" value="Prompt for AI::Assistant" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="471" y="-780" width="220" height="440" as="geometry" />
+          <mxGeometry x="471" y="-579" width="220" height="440" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-33" value="System Prompt" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-32">
           <mxGeometry x="49" y="30" width="120" height="60" as="geometry" />
@@ -134,13 +134,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-45" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Dependency Resolver&lt;/h1&gt;&lt;p&gt;Based on the selected AI::Assistant and it&#39;s dependency requirement, at campaign level we would include those dependencies.&lt;/p&gt;&lt;p&gt;For example: If Assessment is a dependency, then at campaign level we will select which assessments we need data of.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="100" width="180" height="230" as="geometry" />
+          <mxGeometry x="1350" y="301" width="180" height="230" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bE3iOkApcKu_SPNstHbB-24" target="bE3iOkApcKu_SPNstHbB-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-47" value="Prompt" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" width="140" height="90" as="geometry" />
+          <mxGeometry x="590" y="201" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-48" value="System Prompt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-47">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -149,16 +149,16 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Campaign Instruction&lt;/h1&gt;&lt;p&gt;External data from data sheet can be defined by using this field. It can also be helpful in directing the focu of the assistant to a particularly important data. e.g. Certain weights to particular assessment or column of datasheet.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="-280" width="180" height="230" as="geometry" />
+          <mxGeometry x="1400" y="-79" width="180" height="230" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bE3iOkApcKu_SPNstHbB-19" target="bE3iOkApcKu_SPNstHbB-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-53" value="Prompt Definition" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-861" width="950" height="651" as="geometry" />
+          <mxGeometry x="110" y="-660" width="950" height="651" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-54" value="Campaign AI Assistants Screens" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=1;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="-870" width="1570" height="1095" as="geometry" />
+          <mxGeometry x="1990" y="-669" width="1570" height="1095" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-55" value="Campaign Assistant Results" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-54">
           <mxGeometry x="40" y="50" width="700" height="509" as="geometry" />
