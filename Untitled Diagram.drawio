@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="Page-1" id="SSzMfHvwIdfggM3md5LJ">
-    <mxGraphModel dx="814" dy="12551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19200" pageHeight="12000" math="0" shadow="0">
+    <mxGraphModel dx="2262" dy="13531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19200" pageHeight="12000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -160,12 +160,12 @@
           <mxGeometry x="110" y="-660" width="950" height="651" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-54" value="Campaign AI Pipelines Screens" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=1;fontSize=24;" parent="1" vertex="1">
-          <mxGeometry x="2030" y="-730" width="1570" height="1190" as="geometry">
+          <mxGeometry x="2030" y="-730" width="1890" height="1230" as="geometry">
             <mxRectangle x="2030" y="-730" width="390" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-55" value="Campaign AI Pipelines Results" style="swimlane;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-54" vertex="1">
-          <mxGeometry x="40" y="50" width="700" height="509" as="geometry" />
+          <mxGeometry x="40" y="60" width="740" height="590" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-84" value="Skill Assessment Analyzer" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=13;" parent="bE3iOkApcKu_SPNstHbB-55" vertex="1">
           <mxGeometry x="350" y="89" width="180" height="151.00000000000364" as="geometry" />
@@ -339,34 +339,46 @@
           <mxGeometry x="170" y="170" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-56" value="Campaign Assistant Settings" style="swimlane;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-54" vertex="1">
-          <mxGeometry x="850" y="50" width="700" height="510" as="geometry" />
+          <mxGeometry x="850" y="60" width="820" height="580" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-109" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Content&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;" parent="bE3iOkApcKu_SPNstHbB-56" vertex="1">
-          <mxGeometry x="30" y="69" width="410" height="321" as="geometry" />
+          <mxGeometry x="30" y="69" width="490" height="351" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-110" value="&lt;b&gt;&lt;u&gt;Settings&lt;/u&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-109" vertex="1">
           <mxGeometry x="45" y="-6" width="65" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-123" value="Campaign Assistants" style="swimlane;whiteSpace=wrap;html=1;align=left;" parent="bE3iOkApcKu_SPNstHbB-109" vertex="1">
-          <mxGeometry x="20" y="40" width="370" height="260" as="geometry" />
+          <mxGeometry x="10" y="30" width="470" height="311" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-124" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="bE3iOkApcKu_SPNstHbB-123" vertex="1">
-          <mxGeometry x="285" width="85" height="20" as="geometry" />
+          <mxGeometry x="385" width="85" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-125" value="Add" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="bE3iOkApcKu_SPNstHbB-123" vertex="1">
-          <mxGeometry x="297.5" y="-5" width="60" height="30" as="geometry" />
+          <mxGeometry x="397.5" y="-5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-135" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-123" vertex="1">
-          <mxGeometry x="17.5" y="36" width="240" height="90" as="geometry" />
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="bE3iOkApcKu_SPNstHbB-123" source="bE3iOkApcKu_SPNstHbB-135" target="TaVbhaIMpLs7cBocdTkD-199">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-136" value="ADNOC Assistant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-135" vertex="1">
-          <mxGeometry y="30" width="240" height="30" as="geometry" />
+        <mxCell id="bE3iOkApcKu_SPNstHbB-135" value="ADNOC Assistant" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-123" vertex="1">
+          <mxGeometry x="10" y="36" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-137" value="Assistant 2" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-135" vertex="1">
-          <mxGeometry y="60" width="240" height="30" as="geometry" />
+        <mxCell id="bE3iOkApcKu_SPNstHbB-136" value="Executive Summary" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-135" vertex="1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-189" value="&lt;span style=&quot;font-size: 13px; text-wrap-mode: nowrap;&quot;&gt;Skill Assessment Analyzer&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-123">
+          <mxGeometry x="12.5" y="110" width="187.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-190" value="&lt;font style=&quot;color: light-dark(rgb(190, 190, 190), rgb(255, 255, 255));&quot; face=&quot;Menlo, Monaco, Courier New, monospace&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Management Skill Analyzer&lt;/span&gt;&lt;/font&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-189">
+          <mxGeometry y="30" width="187.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-191" value="Technical Skill Analyzer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-189">
+          <mxGeometry y="60" width="187.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-199" value="Pipelines grouped under assistants for better visibility.&lt;br&gt;TODO: Think of better UI, may be a simple table is enough" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-123">
+          <mxGeometry x="260" y="31" width="220" height="99" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-141" value="&lt;b&gt;Add Pipelines&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-56" vertex="1">
-          <mxGeometry x="520" y="69" width="140" height="150" as="geometry" />
+          <mxGeometry x="650" y="69" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-142" value="Select Assistant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -380,8 +392,22 @@
         <mxCell id="bE3iOkApcKu_SPNstHbB-144" value="Dependencies Resolver" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-192" value="Defined pipelines for the same assistant but with different dependency resolved as Management Skill Assessment an Technical Skill Assessment" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-56">
+          <mxGeometry x="330" y="450" width="220" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bE3iOkApcKu_SPNstHbB-56" source="TaVbhaIMpLs7cBocdTkD-191" target="TaVbhaIMpLs7cBocdTkD-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.016;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bE3iOkApcKu_SPNstHbB-56" source="TaVbhaIMpLs7cBocdTkD-190" target="TaVbhaIMpLs7cBocdTkD-192">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.446;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="bE3iOkApcKu_SPNstHbB-56" source="bE3iOkApcKu_SPNstHbB-136" target="TaVbhaIMpLs7cBocdTkD-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-81" value="Campaign AI Pipelines Results&amp;nbsp;(Drawer Open)" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-54">
-          <mxGeometry x="40" y="620" width="700" height="509" as="geometry" />
+          <mxGeometry x="40" y="680" width="700" height="509" as="geometry" />
         </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-115" value="&lt;u&gt;Content&lt;/u&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=default;gradientColor=none;rounded=0;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-81">
           <mxGeometry x="20" y="59" width="650" height="401" as="geometry" />
@@ -392,13 +418,13 @@
         <mxCell id="TaVbhaIMpLs7cBocdTkD-162" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Oliver" style="swimlane;whiteSpace=wrap;html=1;shadow=1;sketch=1;curveFitting=1;jiggle=2;glass=0;rounded=1;align=left;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-115">
           <mxGeometry x="360" width="290" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="TaVbhaIMpLs7cBocdTkD-174" value="Assistant 2" style="shape=table;startSize=20;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;labelBorderColor=none;rounded=0;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-162">
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-174" value="Skill Assessment Analyzer" style="shape=table;startSize=20;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=0;strokeColor=default;fontSize=16;labelBorderColor=none;rounded=0;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-162">
           <mxGeometry y="252" width="290" height="161" as="geometry" />
         </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-175" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-174">
           <mxGeometry y="20" width="290" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="TaVbhaIMpLs7cBocdTkD-176" value="key_1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-175">
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-176" value="summary" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;strokeColor=inherit;fontSize=16;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-175">
           <mxGeometry width="130" height="71" as="geometry">
             <mxRectangle width="130" height="71" as="alternateBounds" />
           </mxGeometry>
@@ -411,7 +437,7 @@
         <mxCell id="TaVbhaIMpLs7cBocdTkD-178" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=inherit;fontSize=16;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-174">
           <mxGeometry y="91" width="290" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TaVbhaIMpLs7cBocdTkD-179" value="key_2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-178">
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-179" value="top_skills" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=inherit;fontSize=16;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-178">
           <mxGeometry width="130" height="70" as="geometry">
             <mxRectangle width="130" height="70" as="alternateBounds" />
           </mxGeometry>
@@ -489,6 +515,12 @@
         </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bE3iOkApcKu_SPNstHbB-141" target="TaVbhaIMpLs7cBocdTkD-186">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-195" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=light-dark(#FFFFFF,#97D077);" vertex="1" parent="1">
+          <mxGeometry x="2440" y="-510" width="10" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-196" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=light-dark(#FFFFFF,#97D077);" vertex="1" parent="1">
+          <mxGeometry x="2500" y="-510" width="10" height="9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
