@@ -40,31 +40,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-2" value="Core" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-1" vertex="1">
-          <mxGeometry x="20" y="40" width="270" height="210" as="geometry" />
+          <mxGeometry x="20" y="40" width="270" height="180" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-3" value="Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-2" vertex="1">
           <mxGeometry y="30" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-4" value="Code(Unique for the assistant)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-2" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-5" value="Prompts" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-2" vertex="1">
           <mxGeometry y="60" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-5" value="Prompts" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-2" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-6" value="Type (e.g. Report Writer, IDP Assistant)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-2" vertex="1">
           <mxGeometry y="90" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-6" value="Type (e.g. Report Writer, IDP Assistant)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-2" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-7" value="Dependency (e.g. Assessment, Datasheet)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-2" vertex="1">
           <mxGeometry y="120" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-7" value="Dependency (e.g. Assessment, Datasheet)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-2" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-8" value="Output Schema(Required for content writer)" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;perimeterSpacing=1;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-2" vertex="1">
           <mxGeometry y="150" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-8" value="Output Schema(Required for content writer" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;perimeterSpacing=1;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-2" vertex="1">
-          <mxGeometry y="180" width="270" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-1" vertex="1">
-          <mxGeometry x="20" y="260" width="270" height="50" as="geometry" />
+          <mxGeometry x="20" y="220" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-21" value="Owner, Description,&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-1" vertex="1">
-          <mxGeometry x="30" y="270" width="250" height="30" as="geometry" />
+          <mxGeometry x="30" y="230" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-9" value="Assistant::Output Schema" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="411" width="220" height="120" as="geometry" />
@@ -490,25 +487,37 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-145" value="Report Builder to use Assistant content" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="190" y="900" width="490" height="220" as="geometry" />
+          <mxGeometry x="240" y="930" width="810" height="460" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="bE3iOkApcKu_SPNstHbB-145" source="bE3iOkApcKu_SPNstHbB-146" target="bE3iOkApcKu_SPNstHbB-150" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-146" value="Select Campaign AI Assistants as Data source" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" parent="bE3iOkApcKu_SPNstHbB-145" vertex="1">
-          <mxGeometry x="30" y="50" width="140" height="110" as="geometry" />
+        <mxCell id="bE3iOkApcKu_SPNstHbB-146" value="Select AI Pipeline as source" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" parent="bE3iOkApcKu_SPNstHbB-145" vertex="1">
+          <mxGeometry x="270" y="230" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-147" value="Select assistant" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-146" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-147" value="Select pipeline" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-146" vertex="1">
           <mxGeometry y="50" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-148" value="Select output key" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-146" vertex="1">
           <mxGeometry y="80" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-150" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 19px; line-height: 100%;&quot;&gt;Summary&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 8px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400;&quot;&gt;{&quot;type&quot;:&quot;CampaignAIAssistant&quot;,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400;&quot;&gt;&quot;code&quot;:&quot;adnoc_assistant&quot;, &quot;key&quot;: &quot;summary&quot;}&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-145" vertex="1">
-          <mxGeometry x="230" y="45" width="230" height="115" as="geometry" />
-        </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-152" value="Report Text box" style="swimlane;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-145" vertex="1">
-          <mxGeometry x="230" y="30" width="230" height="150" as="geometry" />
+          <mxGeometry x="550" y="110" width="235" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-150" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 19px; line-height: 100%;&quot;&gt;Summary&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 8px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400;&quot;&gt;{&quot;type&quot;:&quot;CampaignAIPipeline,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400;&quot;&gt;&quot;code&quot;:&quot;adnoc_summary&quot;, &quot;key&quot;: &quot;summary&quot;}&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-152" vertex="1">
+          <mxGeometry x="5" y="30" width="230" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-205" value="Import AI Pipelines" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-145">
+          <mxGeometry x="40" y="50" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-206" value="Name of Pipeline" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-205">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-207" value="code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-205">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-208" value="Assistant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="TaVbhaIMpLs7cBocdTkD-205">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-186" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AI Pipelines&lt;/h1&gt;&lt;p&gt;AI Pipeline is equivalent to factor, this consists of assistant, code, instruction and dependency resolving entities.&lt;br&gt;&lt;br&gt;Single assistant can be used to build multiple pipelines&lt;br&gt;&lt;br&gt;Example&lt;/p&gt;&lt;p&gt;Given same assistant to summarise an assessment, we can have two pipeline for two different assessment with same output&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3720" y="-680" width="180" height="280" as="geometry" />
@@ -521,6 +530,12 @@
         </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-196" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.tick;fillColor=light-dark(#FFFFFF,#97D077);" vertex="1" parent="1">
           <mxGeometry x="2500" y="-510" width="10" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-209" value="Assistant should be defined while importing a pipeling so that we can show the ouput schema available for that assistant" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="950" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="TaVbhaIMpLs7cBocdTkD-208" target="TaVbhaIMpLs7cBocdTkD-209">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
