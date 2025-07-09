@@ -83,7 +83,7 @@
             <mxPoint x="560" y="211" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-16" value="Campaign AI Pipelines" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-16" value="Campaign AI Artifacts" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="141" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-18" value="AI::Assistant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-16" vertex="1">
@@ -156,12 +156,12 @@
         <mxCell id="bE3iOkApcKu_SPNstHbB-53" value="Prompt Definition" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="-660" width="950" height="651" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-54" value="Campaign AI Pipelines Screens" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=1;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-54" value="Campaign AI Artifacts Screens" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=1;fontSize=24;" parent="1" vertex="1">
           <mxGeometry x="2030" y="-730" width="1890" height="1230" as="geometry">
             <mxRectangle x="2030" y="-730" width="390" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-55" value="Campaign AI Pipeline&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Results&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-54" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-55" value="Campaign AI Artifact&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Results&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-54" vertex="1">
           <mxGeometry x="40" y="60" width="740" height="590" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-84" value="Management Skill Analyzer" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=13;" parent="bE3iOkApcKu_SPNstHbB-55" vertex="1">
@@ -371,10 +371,10 @@
         <mxCell id="TaVbhaIMpLs7cBocdTkD-191" value="Technical Skill Analyzer" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="TaVbhaIMpLs7cBocdTkD-189" vertex="1">
           <mxGeometry y="60" width="187.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TaVbhaIMpLs7cBocdTkD-199" value="Pipeline grouped under assistants for better visibility.&lt;br&gt;TODO: Think of better UI, may be a simple table is enough" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-123" vertex="1">
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-199" value="Artifact grouped under assistants for better visibility.&lt;br&gt;TODO: Think of better UI, may be a simple table is enough" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-123" vertex="1">
           <mxGeometry x="260" y="31" width="220" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-141" value="&lt;b&gt;Add Pipeline&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-56" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-141" value="&lt;b&gt;Add Artifact&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-56" vertex="1">
           <mxGeometry x="650" y="69" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-142" value="Select Assistant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
@@ -389,7 +389,7 @@
         <mxCell id="bE3iOkApcKu_SPNstHbB-144" value="Dependencies Resolver" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TaVbhaIMpLs7cBocdTkD-192" value="Defined pipeline for the same assistant but with different dependency resolved as Management Skill Assessment an Technical Skill Assessment" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-56" vertex="1">
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-192" value="Defined Artifact for the same assistant but with different dependency resolved as Management Skill Assessment an Technical Skill Assessment" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-56" vertex="1">
           <mxGeometry x="330" y="450" width="220" height="99" as="geometry" />
         </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.434;entryDx=0;entryDy=0;entryPerimeter=0;" parent="bE3iOkApcKu_SPNstHbB-56" source="TaVbhaIMpLs7cBocdTkD-191" target="TaVbhaIMpLs7cBocdTkD-192" edge="1">
@@ -492,10 +492,10 @@
         <mxCell id="bE3iOkApcKu_SPNstHbB-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="bE3iOkApcKu_SPNstHbB-145" source="bE3iOkApcKu_SPNstHbB-146" target="bE3iOkApcKu_SPNstHbB-150" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-146" value="Select Campaign AI Pipeline as source" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" parent="bE3iOkApcKu_SPNstHbB-145" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-146" value="Select Campaign AI Artifact as source" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;align=left;" parent="bE3iOkApcKu_SPNstHbB-145" vertex="1">
           <mxGeometry x="270" y="230" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-147" value="Select Pipeline" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-146" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-147" value="Select Artifact" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-146" vertex="1">
           <mxGeometry y="50" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-148" value="Select output key" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-146" vertex="1">
@@ -504,13 +504,13 @@
         <mxCell id="bE3iOkApcKu_SPNstHbB-152" value="Report Text box" style="swimlane;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-145" vertex="1">
           <mxGeometry x="550" y="110" width="235" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-150" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 19px; line-height: 100%;&quot;&gt;Summary&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 8px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400;&quot;&gt;{&quot;type&quot;:&quot;CampaignAIPipeline,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400;&quot;&gt;&quot;code&quot;:&quot;adnoc_summary&quot;, &quot;key&quot;: &quot;summary&quot;}&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-152" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-150" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 19px; line-height: 100%;&quot;&gt;Summary&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 8px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400;&quot;&gt;{&quot;type&quot;:&quot;CampaignAIArtifact,&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: 400;&quot;&gt;&quot;code&quot;:&quot;adnoc_summary&quot;, &quot;key&quot;: &quot;summary&quot;}&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-152" vertex="1">
           <mxGeometry x="5" y="30" width="230" height="115" as="geometry" />
         </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-205" value="Import Campaign&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;AI Generator&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-145" vertex="1">
           <mxGeometry x="40" y="50" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="TaVbhaIMpLs7cBocdTkD-206" value="Name of AI Pipeline" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="TaVbhaIMpLs7cBocdTkD-205" vertex="1">
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-206" value="Name of AI Artifact" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="TaVbhaIMpLs7cBocdTkD-205" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-207" value="code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="TaVbhaIMpLs7cBocdTkD-205" vertex="1">
@@ -519,7 +519,7 @@
         <mxCell id="TaVbhaIMpLs7cBocdTkD-208" value="Assistant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="TaVbhaIMpLs7cBocdTkD-205" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TaVbhaIMpLs7cBocdTkD-186" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AI Pipeline&lt;/h1&gt;&lt;p&gt;AI Pipeline is equivalent to factor, this consists of assistant, code, instruction and dependency resolving entities.&lt;br&gt;&lt;br&gt;Single assistant can be used to build multiple pipelines&lt;br&gt;&lt;br&gt;Example&lt;/p&gt;&lt;p&gt;Given same assistant to summarise an assessment, we can have two generator for two different assessment with same output&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-186" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;AI Artifact&lt;/h1&gt;&lt;p&gt;AI Artifact is equivalent to factor, this consists of assistant, code, instruction and dependency resolving entities.&lt;br&gt;&lt;br&gt;Single assistant can be used to build multiple Artifacts&lt;br&gt;&lt;br&gt;Example&lt;/p&gt;&lt;p&gt;Given same assistant to summarise an assessment, we can have two generator for two different assessment with same output&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3720" y="-680" width="180" height="280" as="geometry" />
         </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=-0.013;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="bE3iOkApcKu_SPNstHbB-141" target="TaVbhaIMpLs7cBocdTkD-186" edge="1">
