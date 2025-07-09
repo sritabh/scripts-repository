@@ -403,7 +403,7 @@
         <mxCell id="TaVbhaIMpLs7cBocdTkD-197" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.446;entryDx=0;entryDy=0;entryPerimeter=0;" parent="bE3iOkApcKu_SPNstHbB-56" source="bE3iOkApcKu_SPNstHbB-136" target="TaVbhaIMpLs7cBocdTkD-192" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TaVbhaIMpLs7cBocdTkD-81" value="Campaign AI Generator Results&amp;nbsp;(Drawer Open)" style="swimlane;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-54" vertex="1">
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-81" value="Campaign AI Artifiacts Results&amp;nbsp;(Drawer Open)" style="swimlane;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-54" vertex="1">
           <mxGeometry x="40" y="680" width="700" height="509" as="geometry" />
         </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-115" value="&lt;u&gt;Content&lt;/u&gt;" style="swimlane;whiteSpace=wrap;html=1;align=left;fillColor=default;gradientColor=none;rounded=0;" parent="TaVbhaIMpLs7cBocdTkD-81" vertex="1">
