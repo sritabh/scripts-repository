@@ -381,19 +381,22 @@
           <mxGeometry x="260" y="31" width="220" height="99" as="geometry" />
         </mxCell>
         <mxCell id="bE3iOkApcKu_SPNstHbB-141" value="&lt;b&gt;Add Artifact&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-56" vertex="1">
-          <mxGeometry x="650" y="69" width="140" height="150" as="geometry" />
+          <mxGeometry x="650" y="69" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-142" value="Select Assistant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
+        <mxCell id="IpRkg-ssp0Q541dCFobz-3" value="Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="bE3iOkApcKu_SPNstHbB-141">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TaVbhaIMpLs7cBocdTkD-187" value="code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
+        <mxCell id="TaVbhaIMpLs7cBocdTkD-187" value="Code" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-143" value="Campaign Instructions" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-142" value="Select Assistant" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bE3iOkApcKu_SPNstHbB-144" value="Dependencies Resolver" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
+        <mxCell id="bE3iOkApcKu_SPNstHbB-143" value="Campaign Instructions" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bE3iOkApcKu_SPNstHbB-144" value="Dependencies Resolver" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="bE3iOkApcKu_SPNstHbB-141" vertex="1">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TaVbhaIMpLs7cBocdTkD-192" value="Defined Artifact for the same assistant but with different dependency resolved as Management Skill Assessment an Technical Skill Assessment" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="bE3iOkApcKu_SPNstHbB-56" vertex="1">
           <mxGeometry x="330" y="450" width="220" height="99" as="geometry" />
